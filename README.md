@@ -75,45 +75,6 @@ GPA：3.66 / 4（专业前20%）
 
 ---
 
-## 🛠 技术栈
-
-### 编程语言
-![Python](https://img.shields.io/badge/Python-blue)
-![C++](https://img.shields.io/badge/C++-00599C)
-![Java](https://img.shields.io/badge/Java-red)
-![SQL](https://img.shields.io/badge/SQL-orange)
-
-### AI / 数据
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c)
-![RAG](https://img.shields.io/badge/RAG-blueviolet)
-![FAISS](https://img.shields.io/badge/FAISS-lightgrey)
-![Neo4j](https://img.shields.io/badge/Neo4j-018bff)
-
-### 系统工程
-![SpringBoot](https://img.shields.io/badge/SpringBoot-green)
-![MyBatis](https://img.shields.io/badge/MyBatis-blue)
-![Docker](https://img.shields.io/badge/Docker-2496ed)
-
-### 其他
-![UE5](https://img.shields.io/badge/UE5-black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8)
-
----
-
-## 📊 GitHub 数据
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanxindou&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanxindou&layout=compact&theme=tokyonight)
-
----
-
-## 📈 GitHub 活跃度
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanxindou&theme=dark)
-
----
-
 ## 📫 联系方式
 
 - 📧 Email：1955053343@qq.com  
